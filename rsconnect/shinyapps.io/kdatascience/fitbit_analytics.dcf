@@ -1,0 +1,11 @@
+name: fitbit_analytics
+title:
+account: kdatascience
+server: shinyapps.io
+appId: 163845
+bundleId: 747315
+url: https://kdatascience.shinyapps.io/Fitbit_Analytics/
+when: 1489532397.20809
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: r_cheat_sheet.pdf|README.md|UNRATENSA.csv|Untitled.R
